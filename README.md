@@ -1,3 +1,8 @@
 ## My final project for COMM318 _Stories from Data_ (Fall2020)
 
-* You will edit this file to act as the main index page for your project 
+### Sexual Assault and Underreporting in the U.S. 
+
+My project is focused on sexual assault and the underreporting of cases in the US. By looking at national sexual assault data, as well as data from New York City's NYPD, I was able to learn more about sexual assault cases on a national and local level. I strove to answer questions like how have the cases of sexual abuse in the U.S. changed over the past few years and why do so many victims choose not to report? Through the process of data analysis, I found significant trends and interesting points in the data to analyze and include in my final story, which goes into depth about sexual assault and sex-related crimes in the U.S., as well as the chronic problem of sexual assault underreporting and the reasons behind it. 
+
+<br>
+Through my final project analysis, I found it apparent that sexual assault is still a serious problem in the United States. Reported sexual assault cases in the U.S. have not only increased during the past 7 years, but the percentage of sexual assault cases not reported to the police has remained at relatively high levels as well, which underscores the faulty criminal justice system that needs to be reformed. Furthermore, the sexual assault cases that are reported show that women, especially younger women, continue to be at overwhelmingly higher risks of sexual assault. Despite choosing not to report, many sexual assault survivors have more frequently turned to other options like speaking out about their experiences publicly or on social media, which has allowed them to take power back from their attackers and heal from trauma. 

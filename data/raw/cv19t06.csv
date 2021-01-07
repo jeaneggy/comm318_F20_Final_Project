@@ -1,0 +1,47 @@
+Bureau of Justice Statistics,,,,,,,,,,
+Filename: cv19t06.csv,,,,,,,,,,
+"Table 6. Percent and rate of victimizations reported to police, by type of crime, 2018 and 2019",,,,,,,,,,
+"Report title: Criminal Victimization, 2019  NCJ 255113",,,,,,,,,,
+"Data Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018 and 2019",,,,,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Jennifer L. Truman, Ph.D., BJS Statisticians",,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,
+Date of version: 9/14/2020,,,,,,,,,,
+,,,,,,,,,,
+"Table 6. Percent and rate of victimizations reported to police, by type of crime, 2018 and 2019",,,,,,,,,,
+,, ,Percent of victimizations reported to police,,,,,"Rate of victimizations reported to police per 1,000/a",,
+Type of crime,,,2018,,2019*,,,2018,,2019*
+Violent crime/b,,,42.6,%,40.9,%,,9.9,,8.6
+,Rape/sexual assault/c,,24.9,,33.9,,,0.7,,0.6
+,Robbery,,62.6, †,46.6,,,1.3,,0.9
+,Assault,,43,,40.9,,,7.9,,7.1
+,,Aggravated assault,60.5,,52.1,,,2.3,,1.9
+,,Simple assault,38.4,,37.9,,,5.6,,5.2
+Violent crime excluding simple assault/d,,,49.9,%,46.5,%,,4.3,,3.4
+Selected characteristics of violent crime,,,,,,,,,,
+,Domestic violence/e,,47,%,52.2,%,,2.3,,2.2
+,,Intimate partner violence/f,45, †,58.4,,,1.4,,1.5
+,Stranger violence/g,,44.5,,39.9,,,4,,3.3
+,Violent crime involving injury,,54.3,,49.5,,,2.9,,2.3
+,Violent crime involving a weapon,,60.3,,52.4,,,2.9, ‡,2.1
+Property crime,,,34.1,%,32.5,%,,36.9, †,33
+,Burglary/trespassing/h,,46.6,,48.5,,,9.9, †,8.3
+,,Burglary/i,47.5,,51.4,,,7.1, ‡,6
+,,Trespassing/j,44.5,,42.2,,,2.8,,2.3
+,Motor-vehicle theft,,78.6,,79.5,,,3.4,,3.1
+,Other theft/k,,28.6, ‡,26.8,,,23.7, †,21.5
+"Note: Violent-crime categories include rape or sexual assault, robbery, aggravated assault, and simple assault, and they include threatened, attempted, and completed occurrences of those crimes. Other violent-crime categories in this table, including domestic violence and violent crime involving injury, are not mutually exclusive from these categories or from each other. See appendix table 10 for standard errors.",,,,,,,,,,
+*Comparison year.,,,,,,,,,,
+†Difference with comparison year is significant at the 95% confidence level.,,,,,,,,,,
+‡Difference with comparison year is significant at the 90% confidence level.,,,,,,,,,,
+"a/Rates are per 1,000 persons age 12 or older for violent crime reported to police and per 1,000 households for property crime reported to police. See appendix table 34 for population numbers and appendix table 35 for number of households.",,,,,,,,,,
+b/Excludes homicide because the National Crime Victimization Survey (NCVS) is based on interviews with victims.,,,,,,,,,,
+c/See Methodology for details on the measurement of rape or sexual assault in the NCVS.,,,,,,,,,,
+"d/Includes rape or sexual assault, robbery, and aggravated assault; this category was called serious violent crime prior to Criminal Victimization, 2018. ",,,,,,,,,,
+e/Includes the subset of violent victimizations that were committed by intimate partners or family members.,,,,,,,,,,
+"f/Includes the subset of domestic-violence victimizations that were committed by intimate partners, which include current or former spouses, boyfriends, or girlfriends.",,,,,,,,,,
+g/Includes the subset of violent victimizations that were committed by someone unknown to the victim.,,,,,,,,,,
+"h/Called household burglary prior to Criminal Victimization, 2018. Includes unlawful or forcible entry or attempted entry of places, including a permanent residence, other residence (e.g., a hotel room or vacation residence), or other structure (e.g., a garage or shed), but does not include trespassing on land.",,,,,,,,,,
+"i/Includes only crimes where the offender committed or attempted a theft. Estimates differ from those previously published in the Criminal Victimization, 2018 report because a coding error that affected the generation of those earlier estimates has been corrected.",,,,,,,,,,
+"j/Includes crimes where the offender did not commit or attempt a theft. Does not include trespassing on land. Estimates differ from those previously published in the Criminal Victimization, 2018 report because a coding error that affected the generation of those earlier estimates has been corrected.",,,,,,,,,,
+"k/Includes the taking or attempted unlawful taking of property or cash without personal contact with the victim. Incidents involving theft of property from within the same household would classify as theft if the offender has a legal right to be in the house (such as a maid, delivery person, or guest). If the offender has no legal right to be in the house, the incident would classify as a burglary.",,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2018 and 2019.",,,,,,,,,,
